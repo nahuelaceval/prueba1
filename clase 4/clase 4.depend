@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1490307869 source:d:\clase 4\clase 4\func.c
+
+1490315255 source:d:\clase 4\clase 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1490307321 d:\clase 4\clase 4\func.h
+
+1490315132 source:d:\clase 4\clase 4\biblioteca.c
+
+1490313629 d:\clase 4\clase 4\biblioteca.h
+

@@ -11,9 +11,5 @@ int respuesta;
     printf("Su edad es: %d",respuesta);
 
     return 0;
-
-
-
 }
-//dfsfdsfsd//
 
