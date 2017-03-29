@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490772695 source:c:\users\ichin\desktop\utn\c\calculadora2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
